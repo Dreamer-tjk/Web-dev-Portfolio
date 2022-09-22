@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: darkgoldenrod;
+}
+.scoreH {
+    background: #070a00;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+    font-family: "Cursed Timer ULiL";
+    src: url(Fonts/CursedTimer.ttf);
+
+}
+
+h3 {
+    color: white;
+    
+    
+    
+}
+.scoreG {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background: none;
+    color:antiquewhite 
+}
+
+
+
